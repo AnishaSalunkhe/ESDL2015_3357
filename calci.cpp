@@ -6,6 +6,6 @@ cout<<" Enter the digits. "
 cin>>a;
 cin>>b;
 
-cout<<" Enter the operation to be performed. "
+cout<<" Enter the operation to be performed. (+|-|*|/)"
 cin>>str;
 }
